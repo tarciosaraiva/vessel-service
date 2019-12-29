@@ -1,0 +1,32 @@
+[
+    {
+        "id": "vessel001",
+        "name": "Boaty McFace",
+        "max_weight": 200000,
+        "capacity": 500
+    },
+    {
+        "id": "vessel002",
+        "name": "Boaty McFace 2",
+        "max_weight": 100000,
+        "capacity": 200
+    },
+    {
+        "id": "vessel003",
+        "name": "Boaty McFace 3",
+        "max_weight": 300000,
+        "capacity": 600
+    },
+    {
+        "id": "vessel004",
+        "name": "Boaty McFace 4",
+        "max_weight": 50000,
+        "capacity": 50
+    },
+    {
+        "id": "vessel005",
+        "name": "Boaty McFace 5",
+        "max_weight": 600000,
+        "capacity": 1000
+    }
+]
